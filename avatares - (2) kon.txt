@@ -9,4 +9,7 @@ avtr_fd8120e9-506b-40c7-ad37-8b9e9e8c4be8|MemeKon —  OXOOO
 avtr_4722db61-95b7-419b-9a38-a800553f42a7|DancinKon —  OXOOO
 avtr_963a0bde-32df-4c12-a96e-8e1fe4c65594|Kon Dominos （Public） —  -frost-
 avtr_2d6dfc9a-e640-4d5c-a51a-1033dcfacbdf|Doom-Kon —  error.mdl
-
+avtr_2e207e51-ff71-4cc6-bfe9-25c3f8cf7b7d|GasMask Kon —  Sh3m
+avtr_0817d52c-cdb2-4f94-84c0-1813db7181ef|Kon Kluai V2 —  KhunLungXD
+avtr_00aa5608-424b-495e-9246-016fcb4c9f75
+avtr_0710643b-914a-43d3-b158-84ab3a1977c1|kon-GSG9‚csgo（SDK3 —  fps-nooooob
