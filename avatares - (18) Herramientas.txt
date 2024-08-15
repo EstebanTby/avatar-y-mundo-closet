@@ -1,3 +1,7 @@
 avtr_b8bff9f1-343b-4c4d-b96e-b60e1e743e92|VRCraft 2․0․0 Beta 3․2 —  DX_30
 avtr_ddb7f183-3cbc-4b65-8445-a6b8fee0a517|Camera DX Beta —  DX_30
 avtr_2fbd5892-883e-4b14-a22e-9b2dadb54399|DebugAvatar —  ScruffyRuffles
+avtr_7126706a-582f-47bf-b3c3-3e59800c5d93|TerrarianProto —  cwsaturn
+avtr_ae432a0c-16f7-4777-98ef-62d03d9801ea|Granyu_Sample01 —  inugoya8
+avtr_ce0be483-f585-402e-9a1d-bb39ba6cce97|Kon-Shadows‚影子部队-COD6（SDK3 —  fps-nooooob
+avtr_9774fe9b-6eeb-4645-a337-929df9001a29|Voice Test nameplatetest6 —  jetdog8808
