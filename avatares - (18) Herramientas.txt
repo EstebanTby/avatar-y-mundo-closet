@@ -5,3 +5,5 @@ avtr_7126706a-582f-47bf-b3c3-3e59800c5d93|TerrarianProto —  cwsaturn
 avtr_ae432a0c-16f7-4777-98ef-62d03d9801ea|Granyu_Sample01 —  inugoya8
 avtr_ce0be483-f585-402e-9a1d-bb39ba6cce97|Kon-Shadows‚影子部队-COD6（SDK3 —  fps-nooooob
 avtr_9774fe9b-6eeb-4645-a337-929df9001a29|Voice Test nameplatetest6 —  jetdog8808
+avtr_060bccdf-7b0c-4a70-864d-02114156a3cb|Armor —  ArtSot
+avtr_4c472771-a0f9-43f6-8c31-eba014b6b93d|OpenPose_v1․0․7 —  clumsy_en

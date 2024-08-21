@@ -5,3 +5,6 @@ avtr_e8029123-6118-40b7-b055-7f6c0d87473f|exdiver_sumple —  a-tuy
 avtr_dbd8f4b1-9f7d-4af1-8f85-83158f1b55d1|Robot 003 v1․5 —  Alucard
 avtr_c7e273d6-73ab-4479-a8b6-b0a6c1972e75|Lamium_EX —  tenehimu
 avtr_57d8e677-883b-4c0d-a16b-12a36ca9f93a|A11_ArmedTitan_Sample —  Anomaro
+avtr_c5482fd0-617d-4ed7-a5a5-a98f274a6182|Audiolink CherubBot - IronBot —  Bishop_Vick
+avtr_5f79b9c8-f33d-440e-8aa3-5bc6e7c40aa9|Luriere_Sample_Full —  Anomaro
+avtr_bd7f40c3-902b-4f31-85ad-b98ad3c5a938|No6_Trial_v1․2（Phys） —  snowlight0102
